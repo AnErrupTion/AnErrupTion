@@ -6,7 +6,7 @@ I can code in C#, Java, and a tiny bit of C and C++. I'm currently learning Zig 
 <br/>
 I don't know what else to say... 🤔 so just have a good day! 💬
 
-## Special thanks to JetBrains <3
+## Special thanks to JetBrains ♥️
 
 I must thank dearly JetBrains for providing free licenses to their IDEs via their [open source program](https://jb.gg/OpenSourceSupport)! (This is entirely out of pure will, I really love their IDEs!)
 
