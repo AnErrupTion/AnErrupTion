@@ -1,8 +1,8 @@
 ## Bonjour 🥖
 
-I'm AnErrupTion or ShiningLea, a coder and gamer in his free time 😄<br/>
-I'm bilingual, I can speak French and English!<br/>
-I can code in Java, C#, C and C++ ⚡! I also play on Minecraft and GTA V most of the time 👯<br/>
+I'm AnErrupTion/ShiningLea, and I like programming and coding! 😄<br/>
+I'm French but I can fluently speak English.<br/>
+I can code in C#, Java, and a tiny bit of C and C++. I'm currently learning Zig to replace my main language (C#). ⚡<br/>
 <br/>
 I don't know what else to say... 🤔 so just have a good day! 💬
 
