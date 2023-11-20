@@ -2,7 +2,7 @@
 
 I'm AnErrupTion/ShiningLea, and I like programming and coding! 😄<br/>
 I'm French but I can fluently speak English.<br/>
-I can code in Zig, C# and Java. ⚡<br/>
+I can code in Zig and C#, and I'm learning Kotlin to phase out Java. ⚡<br/>
 <br/>
 I don't know what else to say... 🤔 so just have a good day! 💬
 
