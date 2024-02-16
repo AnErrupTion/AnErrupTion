@@ -1,14 +1,14 @@
-## Bonjour 🥖
+## Hi!
 
-I'm AnErrupTion/ShiningLea, and I like programming and coding! 😄<br/>
-I'm French but I can fluently speak English.<br/>
-I primarily code in Zig, though I used to code in C# and Java. ⚡<br/>
-<br/>
-I don't know what else to say... 🤔 so just have a good day! 💬
+I'm AnErrupTion, a French software developer! I code in:
+- Zig
+- Kotlin
+- C# ([MOSA](https://github.com/mosa/MOSA-Project))
+- C++ ([Tenacity](https://codeberg.org/tenacityteam/tenacity)
 
-## Special thanks to JetBrains ♥️
+## Special thanks to JetBrains! ♥️
 
-I must thank dearly JetBrains for providing free licenses to their IDEs via their [open source program](https://jb.gg/OpenSourceSupport)! (This is entirely out of pure will, I really love their IDEs!)
+I'm willingly putting out a thank you to JetBrains for providing free licenses to their IDEs via their [open source program](https://jb.gg/OpenSourceSupport)!
 
-## Stats pour les intellos (comme moi) 😄
+## Statistics
 [![AnErrupTion's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnErrupTion&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
