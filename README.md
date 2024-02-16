@@ -4,7 +4,7 @@ I'm AnErrupTion, a French software developer! I code in:
 - Zig
 - Kotlin
 - C# ([MOSA](https://github.com/mosa/MOSA-Project))
-- C++ ([Tenacity](https://codeberg.org/tenacityteam/tenacity)
+- C++ ([Tenacity](https://codeberg.org/tenacityteam/tenacity))
 
 ## Special thanks to JetBrains! ♥️
 
