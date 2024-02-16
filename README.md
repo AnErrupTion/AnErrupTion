@@ -1,4 +1,4 @@
-## Hi!
+## Hi there!
 
 I'm AnErrupTion, a French software developer! I code in:
 - Zig
