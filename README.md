@@ -1,8 +1,8 @@
 ## Hi there!
 
 I'm AnErrupTion, a French software developer! I code in:
-- Zig
-- Kotlin
+- Zig ([OpenPeripherals](https://github.com/AnErrupTion/OpenPeripherals), [ZigEmu](https://github.com/AnErrupTion/ZigEmu), [EeeOS](https://github.com/AnErrupTion/EeeOS))
+- Kotlin ([ZigZen](https://github.com/ZigIDE/ZigZen))
 - C# ([MOSA](https://github.com/mosa/MOSA-Project))
 - C++ ([Tenacity](https://codeberg.org/tenacityteam/tenacity))
 
