@@ -15,4 +15,4 @@ I'm willingly putting out a thank you to JetBrains for providing free licenses t
 
 ## DevCard
 
-<a href="https://app.daily.dev/anerruption"><img src="https://api.daily.dev/devcards/v2/D2PXo47dHjxtPiAtsL6BT.png?type=default&r=w5n" width="356" alt="AnErrupTion's Dev Card"/></a>
+<a href="https://app.daily.dev/anerruption"><img src="https://api.daily.dev/devcards/v2/D2PXo47dHjxtPiAtsL6BT.png?type=wide&r=w5n" width="652" alt="AnErrupTion's Dev Card"/></a>
