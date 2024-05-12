@@ -12,3 +12,7 @@ I'm willingly putting out a thank you to JetBrains for providing free licenses t
 
 ## Statistics
 [![AnErrupTion's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnErrupTion&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## DevCard
+
+<a href="https://app.daily.dev/anerruption"><img src="https://api.daily.dev/devcards/v2/D2PXo47dHjxtPiAtsL6BT.png?type=default&r=w5n" width="356" alt="AnErrupTion's Dev Card"/></a>
