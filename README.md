@@ -1,7 +1,7 @@
 ## Hi there!
 
 I'm AnErrupTion, a French software developer! I code in:
-- Zig ([OpenPeripherals](https://github.com/AnErrupTion/OpenPeripherals), [ZigEmu](https://github.com/AnErrupTion/ZigEmu), [EeeOS](https://github.com/AnErrupTion/EeeOS))
+- Zig ([OpenPeripherals](https://github.com/AnErrupTion/OpenPeripherals), [ZigEmu](https://github.com/AnErrupTion/ZigEmu), [EeeOS](https://github.com/AnErrupTion/EeeOS), [ly](https://github.com/fairyglade/ly))
 - Kotlin ([ZigZen](https://github.com/ZigIDE/ZigZen))
 - C# ([MOSA](https://github.com/mosa/MOSA-Project), [Virtual Workstation](https://github.com/AnErrupTion/VirtualWorkstation))
 - C++ ([Tenacity](https://codeberg.org/tenacityteam/tenacity))
