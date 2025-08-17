@@ -4,6 +4,7 @@ I'm AnErrupTion, your average software developer. I work with various programmin
 
 Projects I currently maintain:
 - [Ly display manager](https://codeberg.org/fairyglade/ly)
+- **Formerly**: [Audacium audio editor](https://github.com/Audacium/audacium)
 
 Projects I'm a core contributor to:
 - [Managed Operating System Alliance (MOSA)](https://github.com/mosa/MOSA-Project)
