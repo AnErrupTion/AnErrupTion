@@ -11,7 +11,7 @@ Projects I'm a core contributor to:
 - **Formerly**: [Tenacity audio editor](https://codeberg.org/tenacityteam/tenacity)
 
 Projects that won international selections:
-- [Plataforma!](https://github.com/AnErrupTion/Plataforma) for [Nuit du Code 2025](https://www.nuitducode.net)
+- [Plataforma!](https://codeberg.org/AnErrupTion/Plataforma) for [Nuit du Code 2025](https://www.nuitducode.net)
 
 Other projects I've contributed to (mostly small bug fixes but sometimes includes bigger work):
 - [CosmosOS](https://github.com/CosmosOS/Cosmos)
