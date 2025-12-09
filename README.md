@@ -4,6 +4,8 @@ I'm AnErrupTion, your average software developer. I work with various programmin
 
 Projects I currently maintain:
 - [Ly display manager](https://codeberg.org/fairyglade/ly)
+- [A vocabulary learning program](https://codeberg.org/AnErrupTion/VocabularyProgram)
+- [OpenPeripherals (Lua) PoC](https://codeberg.org/AnErrupTion/OpenPeripheralsLua)
 - **Formerly**: [Audacium audio editor](https://github.com/Audacium/audacium)
 
 Projects I'm a core contributor to:
